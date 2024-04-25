@@ -1,6 +1,6 @@
 {
-  "short_name": "XRay POC Generation",
-  "name": "XRay POC 生成器",
+  "short_name": "FingerPrint Yaml Generation",
+  "name": "FingerPrint Yaml 生成器",
   "icons": [
     {
       "src": "favicon.png",
